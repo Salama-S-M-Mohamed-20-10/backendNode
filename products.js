@@ -11,6 +11,7 @@ const products = [
            "https://res.cloudinary.com/daifd0f27/image/upload/v1720997954/Mens_NASA_Space_Bear_Print_O-Neck_Casual_Loose_Short_Sleeve_T-Shirt_neenwd.jpg",
            "https://res.cloudinary.com/daifd0f27/image/upload/v1720997952/Mens_NASA_Space_Bear_Print_O-Neck_Casual_Loose_Short_Sleeve_T-Shirt_1_uykjtq.jpg" 
           ],
+      max : 5 
     },
     {
       id: 2,
@@ -25,6 +26,7 @@ const products = [
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997948/164802324294a9e00cd18e3bdacdb07faadc6ea08e_thumbnail_900x_ignov2.webp",
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997947/1646271078e49bf65969984162cd89e52f225c1251_thumbnail_900x_sp34ym.webp"
       ],
+      max : 6
     },
     {
       id: 3,
@@ -38,6 +40,7 @@ const products = [
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997957/Paper_Plane_of_Liberty_Print_Crew_Neck_Short_Sleeve_T-Shirts_-_Grey___XL_dxcgeg.png", 
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997949/Paper_Plane_of_Liberty_Print_Crew_Neck_Short_Sleeve_T-Shirts_-_White___XL_vdu3hg.png" 
       ],
+      max : 7
     },
     {
       id: 4,
@@ -51,6 +54,7 @@ const products = [
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997957/1646822799c97e5f9754d3b3314b4e6ffd848ad22d_thumbnail_900x_fgbccx.webp",
         "https://res.cloudinary.com/daifd0f27/image/upload/v1720997951/164430580182db3b5a5192e660a87c832a397044b6_thumbnail_900x_v35bl1.webp"
       ],
+      max : 4
     },
    ];
    module.exports = products;
